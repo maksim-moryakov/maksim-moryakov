@@ -5,11 +5,11 @@ I'm a junior programmer.
 My Projects:
 - Project: **🔬** **«Learn to learn»** - one-page portfolio website.
 
-Link to the project: https://maksim-moryakov.github.io/how-to-learn//index.html
+Link to the project: https://maksim-moryakov.github.io/how-to-learn/
 
 - Project: **🗺** **«Travel to Russia»** - a project about traveling in Russia.
 
-Link to the project: https://maksim-moryakov.github.io/russian-travel/index.html
+Link to the project: https://maksim-moryakov.github.io/russian-travel/
 <!--
 - Проект: **🏡** **«Место»** - интерактивная страница, куда можно добавлять фотографии, удалять их и ставить лайки.
 
