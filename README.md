@@ -14,6 +14,9 @@ Link to the project: https://maksim-moryakov.github.io/russian-travel/
 * Project_3: **🏡** **«Place»** - an interactive page, where you can add photos, delete them and put likes.
 
 Link to the project: https://maksim-moryakov.github.io/mesto/
+
+Now I am learning a new programming language Python.
+
 <!--
 Here are some ideas to get you started:
 
