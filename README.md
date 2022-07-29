@@ -11,7 +11,7 @@ Link to the project: https://maksim-moryakov.github.io/how-to-learn/
 
 Link to the project: https://maksim-moryakov.github.io/russian-travel/
 
-* Project_3: **🏡** **«Place»** - an interactive page where you can add photos, delete them and put likes.
+* Project_3: **🏡** **«Place»** - an interactive page, where you can add photos, delete them and put likes.
 
 Link to the project: https://maksim-moryakov.github.io/mesto/
 <!--
