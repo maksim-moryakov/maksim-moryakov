@@ -15,6 +15,10 @@ Link to the project: https://maksim-moryakov.github.io/russian-travel/
 
 Link to the project: https://maksim-moryakov.github.io/mesto/
 
+* Project_4: **✈️** **«weekend_competition»** - a joint project with a classmate as part of a weekend competition
+
+Link to the project: https://maksim-danil.github.io/weekend_competition/
+
 Now I am learning a new programming language Python.
 
 <!--
