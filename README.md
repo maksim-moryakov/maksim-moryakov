@@ -1,27 +1,20 @@
-### Hi, i'm Maksim Moryakov 👋
+# Hi, i'm Maksim Moryakov 👋
 
 I'm a junior programmer.
 
-My Projects:
-- Project: **🔬** **«Learn to learn»** - one-page portfolio website.
+## My Projects:
+* Project_1: **🔬** **«Learn to learn»** - one-page portfolio website.
 
 Link to the project: https://maksim-moryakov.github.io/how-to-learn/
 
-- Project: **🗺** **«Travel to Russia»** - a project about traveling in Russia.
+* Project_2: **🗺** **«Travel to Russia»** - a project about traveling in Russia.
 
 Link to the project: https://maksim-moryakov.github.io/russian-travel/
+
+* Project_3: **🏡** **«Place»** - an interactive page where you can add photos, delete them and put likes.
+
+Link to the project: https://maksim-moryakov.github.io/mesto/
 <!--
-- Проект: **🏡** **«Место»** - интерактивная страница, куда можно добавлять фотографии, удалять их и ставить лайки.
-
-Ссылка на проект: https://timid198.github.io/mesto/
-
-- Проект: **🏡** **«Место - React.js»** - интерактивная страница, куда можно добавлять фотографии, удалять их и ставить лайки, зарегистрироваться и авторизоваться, выполненная с применением React.js.
-
-Ссылка на проект: https://azannik.nomoredomains.rocks/
-
-
-**maksim-moryakov/maksim-moryakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
