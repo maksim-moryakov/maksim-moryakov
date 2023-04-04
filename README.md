@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="22">
-![7_1671368644](https://user-images.githubusercontent.com/79351987/229700104-4dc856ad-5909-48ec-ba4a-229caaa97ce3.png)
+<img src="https://user-images.githubusercontent.com/79351987/229700104-4dc856ad-5909-48ec-ba4a-229caaa97ce3.png" alt="Django" height="22")>
 
 </p>
 <br />
